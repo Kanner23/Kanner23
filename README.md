@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Myself anytime**
 
-- 📫 How to reach me **jamesdechavez12@gmail.com**
+- 📫 How to reach me **jameszaki.dechavez@tup.edu.ph**
 
 - 📄 Know about my experiences **about life**
 
