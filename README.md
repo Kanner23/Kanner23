@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Zaki De Chavez</h1>
 <h3 align="center">A Matcha lover from Philippines</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Reach+for+the+sky!)](https://git.io/typing-svg)
+
 
 <p align="left"> <a href="https://twitter.com/_jameszk" target="blank"><img src="https://img.shields.io/twitter/follow/_jameszk?logo=twitter&style=for-the-badge" alt="zaki" /></a>
   <img align="right" alt="Code" width="400" src="https://cdn.dribbble.com/users/4686380/screenshots/14107263/media/0deca74ef50f7158b1c3b9014811bd7b.gif">
